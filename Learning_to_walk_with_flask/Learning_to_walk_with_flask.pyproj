@@ -33,40 +33,9 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Learning_to_walk_with_flask\" />
-    <Folder Include="Learning_to_walk_with_flask\static\" />
-    <Folder Include="Learning_to_walk_with_flask\static\content\" />
-    <Folder Include="Learning_to_walk_with_flask\static\fonts\" />
-    <Folder Include="Learning_to_walk_with_flask\static\scripts\" />
-    <Folder Include="Learning_to_walk_with_flask\templates\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="requirements.txt" />
-    <Content Include="Learning_to_walk_with_flask\static\content\bootstrap.css" />
-    <Content Include="Learning_to_walk_with_flask\static\content\bootstrap.min.css" />
-    <Content Include="Learning_to_walk_with_flask\static\content\site.css" />
-    <Content Include="Learning_to_walk_with_flask\static\fonts\glyphicons-halflings-regular.eot" />
-    <Content Include="Learning_to_walk_with_flask\static\fonts\glyphicons-halflings-regular.svg" />
-    <Content Include="Learning_to_walk_with_flask\static\fonts\glyphicons-halflings-regular.ttf" />
-    <Content Include="Learning_to_walk_with_flask\static\fonts\glyphicons-halflings-regular.woff" />
-    <Content Include="Learning_to_walk_with_flask\static\scripts\bootstrap.js" />
-    <Content Include="Learning_to_walk_with_flask\static\scripts\bootstrap.min.js" />
-    <Content Include="Learning_to_walk_with_flask\static\scripts\jquery-1.10.2.intellisense.js" />
-    <Content Include="Learning_to_walk_with_flask\static\scripts\jquery-1.10.2.js" />
-    <Content Include="Learning_to_walk_with_flask\static\scripts\jquery-1.10.2.min.js" />
-    <Content Include="Learning_to_walk_with_flask\static\scripts\jquery-1.10.2.min.map" />
-    <Content Include="Learning_to_walk_with_flask\static\scripts\jquery.validate-vsdoc.js" />
-    <Content Include="Learning_to_walk_with_flask\static\scripts\jquery.validate.js" />
-    <Content Include="Learning_to_walk_with_flask\static\scripts\jquery.validate.min.js" />
-    <Content Include="Learning_to_walk_with_flask\static\scripts\jquery.validate.unobtrusive.js" />
-    <Content Include="Learning_to_walk_with_flask\static\scripts\jquery.validate.unobtrusive.min.js" />
-    <Content Include="Learning_to_walk_with_flask\static\scripts\modernizr-2.6.2.js" />
-    <Content Include="Learning_to_walk_with_flask\static\scripts\respond.js" />
-    <Content Include="Learning_to_walk_with_flask\static\scripts\respond.min.js" />
-    <Content Include="Learning_to_walk_with_flask\static\scripts\_references.js" />
-    <Content Include="Learning_to_walk_with_flask\templates\about.html" />
-    <Content Include="Learning_to_walk_with_flask\templates\contact.html" />
-    <Content Include="Learning_to_walk_with_flask\templates\index.html" />
-    <Content Include="Learning_to_walk_with_flask\templates\layout.html" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.Web.targets" />
   <!-- Specify pre- and post-build commands in the BeforeBuild and 
